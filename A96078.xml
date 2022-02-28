@@ -1,0 +1,1086 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue betw[een] life and death Very requisite for the conte[m]plation of all transitory pilgrims, and pious minded Christians.</title>
+            <author>Wates, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96078</idno>
+            <idno type="STC">Wing W1059</idno>
+            <idno type="STC">ESTC R232341</idno>
+            <idno type="EEBO-CITATION">99897711</idno>
+            <idno type="PROQUEST">99897711</idno>
+            <idno type="VID">170916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170916)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2522:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue betw[een] life and death Very requisite for the conte[m]plation of all transitory pilgrims, and pious minded Christians.</title>
+                  <author>Wates, Richard.</author>
+               </titleStmt>
+               <extent>[36] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>by W.W. &amp; are to be sold by Edwa[rd] [ ] Pauls church [ ],</publisher>
+                  <pubPlace>[Lon]don :</pubPlace>
+                  <date>[1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Richard Wates.</note>
+                  <note>Signatures: A⁶ B⁵ C.</note>
+                  <note>In verse.</note>
+                  <note>Publication date from Wing CD-ROM, 1996.</note>
+                  <note>L copy, reel 2522, is damaged and stained; pages missing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Early works to 1800.</term>
+               <term>Theology, Practical --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170916:1"/>
+            <pb facs="tcp:170916:1"/>
+            <p>A Dialogue betw<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Life and Death.</p>
+            <p>Very requiſite for the Conte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>plation of all Tranſitory Pilgrims, <hi>and pious min<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Ch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſti<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</hi>
+            </p>
+            <figure/>
+            <p>
+               <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>on</hi> by <hi>W. W.</hi> &amp; are to be ſold by <hi>Edwar<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auls</hi> Church-ya<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170916:2"/>
+            <pb facs="tcp:170916:2"/>
+            <opener>
+               <salute>To the Worſhipfull, truely affecte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and no leſſe meritorious, Mr <hi>James Biſ<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> Senior Eſquire: the Author wiſheth <hi>Grace, Mercy,</hi> and <hi>Peace.</hi>
+               </salute>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He manifold courteſies received at you<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hands, deſerveth a far more gratificat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on than my ability, either the one way <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the other is able to give you: yet to b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> oblivious of all, were treb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ingratitude And therefore to ſhunne ſo abſurd an error, I hav<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in my dutifull affection, (laying aſide Commic<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Thaleia</hi>) preſented to your Worſhips view, <hi>Deat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Conquering,</hi> that muſt be <hi>Conquered.</hi> Although th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſubject is not correſpondent to feſtivall times, yet to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thought upon at all times: and ſo in concluſion <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time omited. But to make my Wings bigger then <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Neaſt, were rediculous. And therefore in the beſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> affection, I reſt.</p>
+            <closer>
+               <signed>Your obliged, <hi>Richard Wates.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poetic_dialogue">
+            <pb facs="tcp:170916:3"/>
+            <head>DIALOGVE BETWEENE LIFE AND DEATA.</head>
+            <head type="sub">The Speakers for life are <hi>Wiſedome, Beauty, Wealth, Youth,</hi> and <hi>Age.</hi>
+            </head>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>iconic representation of Death as a skeleton holding an arrow in one hand and an hourglass in the other</figDesc>
+                  </figure>
+               </head>
+               <head>Death beginnes, and proclaimes his authority from whom he is ſent.</head>
+               <lg>
+                  <l>FRom th' Imperiall Throne of your Creator</l>
+                  <l>With this my large Commiſſion I am ſent,</l>
+                  <pb facs="tcp:170916:3"/>
+                  <l>My name is <hi>Death,</hi> which moſt ſo much abhor,</l>
+                  <l>And would through (frailty this my ſting prevent</l>
+                  <l>But my Embaſſage no one may withſtand,</l>
+                  <l>Being ſeald in <hi>Eden</hi> by th' Almighties hand.</l>
+                  <l>This ſandy glaſſe, which in my hand I beare,</l>
+                  <l>Doth meaſure out the time of mortall man:</l>
+                  <l>Which being run, with this my darting ſpeare,</l>
+                  <l>I bring him to the grave, both pale and wan:</l>
+                  <l>Nor King nor Keyſar, nor the ſervile ſlave,</l>
+                  <l>That can be priviledged from the grave.</l>
+                  <l>No golden bribes, though leane I am in ſhow,</l>
+                  <l>Shall cauſe me at fond worldlings once connive,</l>
+                  <l>Nor pleading Orator (whoſe wiſdom flow</l>
+                  <l>Like to bright <hi>Pallas</hi> (ſhall his date ſurvive:</l>
+                  <l>Wher's brave <hi>Hector, Pompey Alexander;</hi>
+                  </l>
+                  <l>Why gone by me that am the worlds commander.</l>
+                  <l>Ther's not a day doth paſſe, but I doe bring</l>
+                  <l>A full fild catologue of the deads name,</l>
+                  <l>Vnto your dreadfull Lord and heavenly King,</l>
+                  <l>Some to their conſolations, ſome theire ſhame:</l>
+                  <l>Where, in a book of braſſe, the totall ſumme,</l>
+                  <l>Are all recorded, till the judgment come.</l>
+                  <l>The utmoſt Region of the earth I tread,</l>
+                  <l>To find the <hi>Chriſtian Pagan,</hi> faire and foule:</l>
+                  <l>Millions of millions living I leave dead</l>
+                  <l>Some with a bleſſed, ſome a curſed ſoule;</l>
+                  <l>I cannot give omittance for an houre</l>
+                  <l>Having my charge from the eternall povre.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170916:4"/>
+               <head>
+                  <figure>
+                     <sp>
+                        <p>Death's thy Advantage.</p>
+                     </sp>
+                     <figDesc>depiction of Death with his arrow confronting Youth</figDesc>
+                  </figure>
+               </head>
+               <head>Death ſpeakes to Youth.</head>
+               <lg>
+                  <l>THou that art youthfull and art newly come,</l>
+                  <l>To ſpeake the prologue of a greater ſumme:</l>
+                  <l>Yet erre thy ſpeech be ended, death doth ſpy,</l>
+                  <l>The period of thy ſand; <hi>and thou muſt dye.</hi>
+                  </l>
+               </lg>
+               <div type="section">
+                  <pb facs="tcp:170916:4"/>
+                  <head>Youth pleads for it ſelfe.</head>
+                  <lg>
+                     <l>BVt I am young, and in the prime of dayes,</l>
+                     <l>Then, were it not ingratitude in thee</l>
+                     <l>To nip the garland of my new grown Bayes,</l>
+                     <l>Before it come to full maturity?</l>
+                     <l>I am but threeſcore yeares and ten, nay more</l>
+                     <l>I may ſurvive, ere nature gives me o're.</l>
+                  </lg>
+                  <lg>
+                     <l>Had we not example late in father <hi>Parre,</hi>
+                     </l>
+                     <l>That liv'd a hundred forty, and twelve year's;</l>
+                     <l>Although times glaſſe to few doe run ſo farre,</l>
+                     <l>Yet men of foure-ſcores gate there oft appeares;</l>
+                     <l>Then were it not mere cruelty in death,</l>
+                     <l>For to bereave my youthfull dayes of breath.</l>
+                  </lg>
+                  <lg>
+                     <l>Ah! let me live, that I the world may know,</l>
+                     <l>And reape the joyes my aged Sire hath ſowne;</l>
+                     <l>Let death to ſome ſicke pined perſon goe,</l>
+                     <l>Whoſe heavy yoak doth make his heart to groan;</l>
+                     <l>Vpon my youth feed not thy malice fell,</l>
+                     <l>Till I have drunke at <hi>Ariſtotles</hi> well.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Death anſwers youth.</head>
+                  <lg>
+                     <l>ALas poore youth! haſt thou not often ſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ene</l>
+                     <l>The ſilly Lamkin to the market come</l>
+                     <pb facs="tcp:170916:5"/>
+                     <l>Before his damme; true, 'tis thy dayes are green,</l>
+                     <l>And now but entring to a greater ſumme:</l>
+                     <l>But as the daies, &amp; hours, and months, and years</l>
+                     <l>Come on upon thee, ſo come on thy cares.</l>
+                  </lg>
+                  <lg>
+                     <l>Nor to abridge thy youthfull dayes of life</l>
+                     <l>Is malice ſhowne; but now to cut thee downe,</l>
+                     <l>Is the road way to ſet thee free from ſtrife,</l>
+                     <l>And adde unto thy ſoule a laſting Crowne:</l>
+                     <l>I ſhall acquit thee from a world of ſins,</l>
+                     <l>Which longer dayes (in loſing) greatly wins.</l>
+                  </lg>
+                  <lg>
+                     <l>And ah! wert thou but capable to know,</l>
+                     <l>The intricate deſignes of mortall man;</l>
+                     <l>Now he is in the gulfe of griefe and woe,</l>
+                     <l>Dog'd at the heeles with ſad deſpaire, and than</l>
+                     <l>Perhaps rais'd high on proud ambitions wing,</l>
+                     <l>Whilſt he forgets his God &amp; heavenly king.</l>
+                  </lg>
+                  <lg>
+                     <l>Nor may I dally with thy tender dayes,</l>
+                     <l>I muſt diſpatch my errand being ſent,</l>
+                     <l>Then feare not ſilly youth, I bring the joyes,</l>
+                     <l>And free thee from all earthly diſcontent.</l>
+                     <l>See, ſee, thy glaſſe is run, take here this ſheet,</l>
+                     <l>And lay thee down at Deaths triumphant feet.</l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:170916:5"/>
+                  <head>
+                     <figure>
+                        <sp>
+                           <p>O happy Change.</p>
+                        </sp>
+                        <figDesc>depiction of Death, holding a shroud and standing over Youth</figDesc>
+                     </figure>
+                  </head>
+                  <lg>
+                     <l>EVen ſuch is man, that lives by breath,</l>
+                     <l>Each moment changing unto death.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170916:6"/>
+               <head>
+                  <figure>
+                     <sp>
+                        <p>Ariſe, this is no place of rest.</p>
+                     </sp>
+                     <figDesc>depiction of Death with its arrow standing over Wisdom</figDesc>
+                  </figure>
+               </head>
+               <head>Death ſpeakes to Wiſedome.</head>
+               <lg>
+                  <l>THou that haſt wiſedome, and apprehend</l>
+                  <l>As much as to poore mortall man doth tend;</l>
+                  <l>And rightly canſt diſcerne earth, ſea, and sky;</l>
+                  <l>Yet man for all this wiſedom's <hi>borne to dye.</hi>
+                  </l>
+               </lg>
+               <div type="section">
+                  <pb facs="tcp:170916:6"/>
+                  <head>Wiſedome pleades for it ſelfe.</head>
+                  <lg>
+                     <l>CAnnot my large Apologies acquit</l>
+                     <l>My body from thy rage and cruell ſtroake?</l>
+                     <l>Cannot my pregnant and ingenious wit</l>
+                     <l>Study a new found way to ſlip thy yoake?</l>
+                     <l>Cannot the muſes and deepe Arts divine</l>
+                     <l>Prevent the cruell blow Death doth aſſigne?</l>
+                  </lg>
+                  <lg>
+                     <l>Nor yet the knowledge of my mothers breaſt,</l>
+                     <l>(<hi>Oxford</hi> and <hi>Cambridge</hi>) not one way deviſe</l>
+                     <l>For to eſcape thee; or ſhould I requeſt</l>
+                     <l>With teares of purple blood from weeping eyes?</l>
+                     <l>Or with orations fram'd from Art moſt high,</l>
+                     <l>Enough to pierce the ten fold Orbes and sky.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Death anſwers Wiſedome.</head>
+                  <lg>
+                     <l>HAd <hi>Jove</hi> begot thee in <hi>Minerva's</hi> armes,</l>
+                     <l>And hadſt more learning than e're mortal yet,</l>
+                     <l>Or wert thou drencht whereas the Muſes ſwarms,</l>
+                     <l>With holy raptures; yea, and round beſet</l>
+                     <l>With Angels for thee: yet know that I am</l>
+                     <l>Inexorable to them, or man.</l>
+                  </lg>
+                  <lg>
+                     <l>Wher's <hi>Solomon,</hi> that wiſe beloved King?</l>
+                     <l>Prophets, and Prediviners, where are they?</l>
+                     <l>Did not this impartiall hand ſoone bring</l>
+                     <l>Their bodies to be lodg'd in beds of clay?</l>
+                     <l>And ſo muſt thine: for loe, thy glaſſe is run,</l>
+                     <l>No wiſedome can preſerve thee, Death being come.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170916:7"/>
+               <head>
+                  <figure>
+                     <sp>
+                        <p>What not dye, thou piece of proud earth.</p>
+                     </sp>
+                     <figDesc>depiction of Death attacking Beauty with its arrow</figDesc>
+                  </figure>
+               </head>
+               <head>Death ſpeakes to Beauty.</head>
+               <lg>
+                  <l>THou that haſt beauty, Princely harts to move,</l>
+                  <l>Enough to make cold death in fiery love;</l>
+                  <l>Yet know faire dame, the beauty of thine eye</l>
+                  <l>Muſt be ecclipſed, being <hi>borne to dye.</hi>
+                  </l>
+               </lg>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170916:7"/>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <div type="section">
+                  <head>Wealth pleadeth for its ſelfe.</head>
+                  <lg>
+                     <l>CAnnot my bags of gold with Death prevaile?</l>
+                     <l>Though I bring milions to eſcape thy ſtroak</l>
+                     <l>So to be priviledged from the gaile,</l>
+                     <l>And not be ſubject to thy painefull yoake;</l>
+                     <l>Ile give thee all my revenewes beſide,</l>
+                     <l>So I in <hi>Golgatha</hi> may not be ſpide.</l>
+                  </lg>
+                  <lg>
+                     <l>Take Crowne and Scepter on the ſame condition</l>
+                     <l>Iewels and accoutrements take them all,</l>
+                     <l>So that my name from out thy ſtrict commiſſion</l>
+                     <l>Be wholly cancell'd that I never fall:</l>
+                     <l>Thy lookes are terrible, hidious, and thin,</l>
+                     <l>That makes me tremble at my former ſinne.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Death anſwers to wealth.</head>
+                  <lg>
+                     <l>WEre all the Mines that in the earth doth lie,</l>
+                     <l>Digg'd and converted to uſefull coine;</l>
+                     <l>Iewels and treaſure that your Ma chants buy</l>
+                     <l>In land ajacent, or beyond the line:</l>
+                     <l>Yet all were far too little to ſuffiſe,</l>
+                     <l>For why? mans life cannot be bought with price.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Dives</hi> was rich, <hi>Pirrus</hi> a Crown did weare,</l>
+                     <l>
+                        <hi>Croeſus</hi> had millians yet one touch of mine,</l>
+                     <l>Did cauſe them tremble with inward feare,</l>
+                     <l>When wealth, and Life at once they muſt reſigne</l>
+                     <l>Go, change the bags of gold for one poore ſheet</l>
+                     <l>And lay thee downe at Deaths triumphant feet.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170916:8"/>
+               <head>
+                  <figure>
+                     <sp>
+                        <p>Onely a grave remaineth for thee.</p>
+                     </sp>
+                     <figDesc>depiction of Death with its arrow confronting Old Age</figDesc>
+                  </figure>
+               </head>
+               <head>Death ſpeakes to old age.</head>
+               <lg>
+                  <l>THou that a hundred winters haſt ore-gone,</l>
+                  <l>Living to ſee thy daughters daughters ſon;</l>
+                  <l>(And many imperfections make thee cry;)</l>
+                  <l>Yet 'tis infallible, all fleſh muſt dye.</l>
+               </lg>
+               <div type="section">
+                  <pb facs="tcp:170916:8"/>
+                  <head>Age pleads for it ſelfe.</head>
+                  <lg>
+                     <l>FVll foureſcore yeares of age I am at leaſt,</l>
+                     <l>And yet the frailty of my fleſh deſire</l>
+                     <l>Thoſe fourſcore yeares may farther be encreaſt;</l>
+                     <l>But then conſidering how my ſenſes tire,</l>
+                     <l>I wiſh for Death, for why? I feele</l>
+                     <l>Full many griefs, even from my crown to heele.</l>
+                  </lg>
+                  <lg>
+                     <l>"Bald is my head where once my haire took place</l>
+                     <l>"Dotage poſſeſſeth the better part of ſence;</l>
+                     <l>"Furrows and wrincles grow within my face,</l>
+                     <l>"My dried gums ſtand for my teeths defence,</l>
+                     <l>"The port-holes of mine eares are ſtopt up quite</l>
+                     <l>"A cloudy dimneſſe hath o'revaild my ſight.</l>
+                  </lg>
+                  <lg>
+                     <l>"My feete and ancles weake and feeble are</l>
+                     <l>"That hardly can my upper part ſupport:</l>
+                     <l>"My legs &amp; thighes and armes that brawny were:</l>
+                     <l>"Now lanke, and thin, and leane appeareth for't,</l>
+                     <l>"My inward parts doth feelingly conſume,</l>
+                     <l>"Through Tiſſiek, Cough, continuall coldnes Rhume.</l>
+                  </lg>
+                  <lg>
+                     <l>"My forme growes crooked, ſtooping to the ground,</l>
+                     <l>"Stinking my breath, my joynts they tremble all,</l>
+                     <pb facs="tcp:170916:9"/>
+                     <l>"A teaſty Coler in me doth abound?</l>
+                     <l>"Yea my whold <hi>Microcoſme</hi> begins to fall;</l>
+                     <l>"And yet me thinks (through feare) that I could crave</l>
+                     <l>"One yeare or two forbearance from the grave.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>Death anſwers old Age.</head>
+                  <lg>
+                     <l>WOnder of wonders, that thy frame of clay,</l>
+                     <l>Thy ſtinking carkaſſe, and a trunk decay'd</l>
+                     <l>Should have deſire to one poore future day;</l>
+                     <l>O! rather wiſh my ſtroke be not delaid;</l>
+                     <l>Thy ſtrength <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t is impair'd through griefe and p<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ine,</l>
+                     <l>As borne a child, become a child again.</l>
+                  </lg>
+                  <lg>
+                     <l>Thy glaſſe is run, and nature gives thee o're,</l>
+                     <l>Earth muſt to earth, untill the trump ſhall ſound,</l>
+                     <l>See thy Sands period not one minute more</l>
+                     <l>Thou muſt ſurvive; there is thy deadly wound.</l>
+                     <l>Youth, Wiſdom Beauty, Strngth, Wealth, nor old Age.</l>
+                     <l>That can the fury of ſterne Death aſſwage.</l>
+                  </lg>
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+               </div>
+            </div>
+            <div type="part">
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <lg>
+                  <pb facs="tcp:170916:9"/>
+                  <l>Haſt thou forgot who ſuffer'd on the Croſſe,</l>
+                  <l>That all beleevers ſhould to heaven aſcend?</l>
+                  <l>And at <hi>thy downefall</hi> ſhall loud voyces ſing,</l>
+                  <l>
+                     <hi>Death wher's thy Conqueſt; Hell where is thy ſting.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When thou ſhalt ſwallowed be to th' abis.</l>
+                  <l>Of black <hi>Gehema,</hi> and the gulfe of woe;</l>
+                  <l>Then ſhall the voyce of <hi>comfort, joy,</hi> and <hi>bliſſe</hi>
+                  </l>
+                  <l>
+                     <hi>Be to the bleſſed: Come, and with me goe</hi>
+                  </l>
+                  <l>
+                     <hi>Into my Fathers Kingdome, and rceive</hi>
+                  </l>
+                  <l>What neither <hi>Death</hi> nor <hi>Time</hi> ſhall from you reave.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Deaths Acelamation.</head>
+               <l>WHo can aſſiſt me with a ſtood of teares!</l>
+               <l>I may guſh out whole rivers fro<g ref="char:cmbAbbrStroke">̄</g> mine eyes!</l>
+               <l>And ſighes by millions, at the voyce I heares!</l>
+               <l>That I muſt be excluded heavenly joyes!</l>
+               <l>All mortalls living, whilſt you yet have breath</l>
+               <l>
+                  <hi>Live well,</hi> to <hi>dye,</hi> and <hi>dye,</hi> to <hi>live</hi> through <hi>Death.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170916:10"/>
+               <head>Deaths <hi>Memorandum</hi> to the middle aged.</head>
+               <l>WHen I looke in the glaſs, and note my haires.</l>
+               <l>I ſee ſome gray, and other ſome impaires:</l>
+               <l>But looking farther on records I finde</l>
+               <l>My date almoſt ſumm'd up, for man aſſign'd:</l>
+               <l>Which rightly noting, then I ſtraight begins</l>
+               <l>To number if I could my world of ſins.</l>
+               <l>But find them numberleſs: it's not time then</l>
+               <l>To ſhake off drowſineſs, and catch my pen?</l>
+               <l>'Tis time for me, and all the world beſide,</l>
+               <l>Oyle in our Lamps with ſpeed that we provide,</l>
+               <l>Leſt that the Bride-groom come, we not prepared,</l>
+               <l>And ſo through Satans Wiles become enſnared;</l>
+               <l>Yet thinke, that in uncertainties tis ſure,</l>
+               <l>All fleſh muſt dye, but when, none knowes the houre.</l>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170916:10"/>
+               <head>Mans Meditation.</head>
+               <l>TO Meditate of Death, and of our end,</l>
+               <l>Cannot but make us tremble to offend:</l>
+               <l>Becauſe as Death leaves us, and faſt binds us,</l>
+               <l>Judgement as infallible will find us.</l>
+            </div>
+            <div type="part">
+               <head>Another.</head>
+               <lg>
+                  <l>PHyſitians know (or elſe ſhould know at leaſt)</l>
+                  <l>How mans health is impaired and how increaſt:</l>
+                  <l>And oft mens life prolongs through skill and Art,</l>
+                  <l>But yet no Phyſick can withſtand Deaths Dart.</l>
+                  <l>SIth that the life of wretched mortall man</l>
+                  <l>Is but in length much like a ſpan;</l>
+                  <l>What curious care then ſhould we have in this?</l>
+                  <l>To ſpend one haires breadth of that ſpan amiſſe.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="hymn_of_praise">
+            <pb facs="tcp:170916:11"/>
+            <head>A Hymne of Prayſes, to the moſt bleſſed and glorious Trinity.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>SIng to the Lord all honour laud, and praiſe,</l>
+               <l>that did us raiſe</l>
+               <l>From earth whereon we tread</l>
+               <l>and being dead,</l>
+               <l>Theſe corps of earth, ſhall in the earth be led.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Vntill the trumpe ſhall ſummon us to joyes,</l>
+               <l>or ſad annoyes:</l>
+               <l>Then now's the fitteſt time</l>
+               <l>for to refine</l>
+               <l>This droſſie earth, and make it all divine.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Sing to the Lord all honour, praiſe, and laud,</l>
+               <l>and him appland;</l>
+               <l>Seith we through <hi>Adams</hi> fall</l>
+               <l>were wretched all;</l>
+               <l>And yet through Chriſt his mercies did recall.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>And now through faith, to good workes joyned we</l>
+               <l>ſhall live with thee,</l>
+               <pb facs="tcp:170916:11"/>
+               <l>Where Saints and Angells dwell,</l>
+               <l>if we repell</l>
+               <l>Stans allurement, and the ſnares of hell.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Sing to our Saviour Chriſt laud, praiſe &amp; honour,</l>
+               <l>under whoſe banner</l>
+               <l>Let us continuall fight,</l>
+               <l>as firme and right,</l>
+               <l>Till World, the Fleſh, and Devill be vanquiſht quite.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>And to the Holy Choſt like praiſes ſing,</l>
+               <l>that doth us bring,</l>
+               <l>Preſerving ſanctity,</l>
+               <l>Love and Amity,</l>
+               <l>Thoughts pure, and chaſt; abhorring vanity.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>To Father, Sonne, and Holy Ghoſt as right,</l>
+               <l>by day and night,</l>
+               <l>Let us give prayſes due,</l>
+               <l>and ſtill purſue</l>
+               <l>The path that leads to bliſſe; bid ſinne a diew.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Let us lay hold upon the preſent time,</l>
+               <l>Death comes in fine:</l>
+               <l>This life ended, all fleſh muſt</l>
+               <l>Catch time, it paſſeth by, and uſe it juſt.</l>
+            </lg>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+         <div type="allegorical_poem">
+            <pb facs="tcp:170916:12"/>
+            <head>Allegoricall Poem.</head>
+            <l>BEhold the towring tree, that whilome ſtood</l>
+            <l>In ſtrength &amp; beauty bravely midſt the wood;</l>
+            <l>Whoſe far ſtretcht l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbs was ſhelter for the beaſts,</l>
+            <l>And likewiſe for the birds to build their neſt.</l>
+            <l>
+               <figure/>
+            </l>
+            <l>Is now hewen down, becauſe he brought foth</l>
+            <l>Such fruits as tend to goodneſs and to worth:</l>
+            <l>So caſt into the fire, and there to be</l>
+            <l>Burn'd, and conſumed for an ill-fruited tree.</l>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:170916:12"/>
+            <head>Divers Exhortations to cauſe all men to remember their ends: taken out of the holy Scripture.</head>
+            <div n="1" type="speech">
+               <epigraph>
+                  <q>In the ſweat of thy face ſhalt thou eat thy bread, till thou returne unto the ground: for out of it waſt thou taken: for duſt thou art, and to dust thou ſhalt returne <bibl>Gen. 2.19.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of a man digging with a shovel (illustrating the biblical passage)</figDesc>
+                  </figure>
+               </head>
+               <head>Deaths firſt ſpeech to Nature.</head>
+               <l>OLd Adam was condemn'd, and all his race,</l>
+               <l>To eate their bread in the ſweat of their face</l>
+               <l>And Scripture ſaith, that from the duſt he came</l>
+               <l>And back to duſt he muſt returne againe:</l>
+               <l>So this hard doome on Adams ſons doth lye</l>
+               <l>Firſt they muſt labour here, then after dye.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>Tis true, this doome to Adams Sons is given,</l>
+                  <l>To labour here on earth, and reſt in heaven.</l>
+               </div>
+            </div>
+            <div n="2" type="speech">
+               <pb facs="tcp:170916:13"/>
+               <epigraph>
+                  <q>We muſt needs dye, and are as water ſpilt upon the ground, which cannot be gathered up againe, nei<g ref="char:EOLhyphen"/>ther doth God reſpect any perſon, <bibl>2 Sam. 9.14.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of a heavenly hand pouring water upon the earth (illustrating the biblical passage)</figDesc>
+                  </figure>
+               </head>
+               <head>Deaths ſecond ſpeech to Nature.</head>
+               <l>AS water that is powred on the ground,</l>
+               <l>Sinkes deeply in, and can no more be found</l>
+               <l>(For water ſpilt) who can againe recover,</l>
+               <l>Such is thy life, thou ſhalt not have another.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>Death to thy lye, Nature makes this reply,</l>
+                  <l>That being changed, I ſhall live after I dye.</l>
+                  <l>Nature ſhall riſe from Mortality,</l>
+                  <l>And live in heaven Eternally.</l>
+               </div>
+            </div>
+            <div n="3" type="speech">
+               <pb facs="tcp:170916:13"/>
+               <epigraph>
+                  <q>We are ſtrangers before thee, and ſojourners, as were our Fathers: our dayes on earth are as a ſhadow, and there is no abiding. <bibl>1 Cron. 29.15.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of a sojourner (illustrating the biblical passage)</figDesc>
+                  </figure>
+               </head>
+               <head>Deaths fourth ſpeech to Nature.</head>
+               <l>O Mortall man expect to meet with dangers</l>
+               <l>And with hard uſage, for ye are all ſtrangers,</l>
+               <l>And ſojourners, ſuch as your fathers were,</l>
+               <l>While ye like walking ſhadowes doe appeare;</l>
+               <l>Walking while that the ſun of life doth ſtay,</l>
+               <l>Which ſetting, ye like ſhadowes fleet a way.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>If man a ſhadow be, Chriſt is his ſun,</l>
+                  <l>Whom he doth follow to his Kingdome.</l>
+               </div>
+            </div>
+            <div n="4" type="speech">
+               <pb facs="tcp:170916:14"/>
+               <epigraph>
+                  <q>My dayes are ſwifter then a Weavers Shitlle, <bibl>Job 7.6.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of a weaver's shuttle, an hourglass, and a mirror (illustrating the biblical passage)</figDesc>
+                  </figure>
+               </head>
+               <head>Dea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hs fourth ſpee<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h to Nat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re.</head>
+               <l>TO ſhew mens d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes are fading and moſt fickle,</l>
+               <l>Thy dayes are ſwifter then a weavers ſhittle.</l>
+               <l>Then be not with hope of long life decev'd,</l>
+               <l>But know thy web of life is quickly wead'd,</l>
+               <l>For if thy ho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res like weavers ſhittle run,</l>
+               <l>Thy life like to a web, will ſoone be done.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>I care not for when this lifes web is done,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> roabs of Immortality put on.</l>
+               </div>
+            </div>
+            <div n="5" type="speech">
+               <pb facs="tcp:170916:14"/>
+               <epigraph>
+                  <q>As the Cloud is conſumed, and vaniſheth away: ſo he that goeth downe to the Grave, ſhall come up no more, <bibl>Job 7.9.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of a cloud and a bow and arrow (illustrating the biblical passage)</figDesc>
+                  </figure>
+               </head>
+               <head>Death fifth ſpeech to Na<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure.</head>
+               <l>BEhold as Clouds doe in a gloomy day,</l>
+               <l>Diſperſe conſume, and vaniſh cleane away,</l>
+               <l>Such is mans life; yet Clouds againe doe riſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>But Man gone to the grave, unſeen there lies.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>Man like ſowne ſeed lies in the ground unſeene,</l>
+                  <l>But both at laſt doe riſe againe and ſpring.</l>
+               </div>
+            </div>
+            <div n="6" type="speech">
+               <pb facs="tcp:170916:15"/>
+               <epigraph>
+                  <q>And the voyce ſaid, Cry. And he ſaid, What ſhall I cry? All fleſh is graſſe, and all the goodlineſſe thereof is as the flo<g ref="char:EOLhyphen"/>wer of the field. The gaſſe withereth, the flower fadeth, becauſe the Spirit of the Lord bloweth upon it: ſurely the people is graſſe. <bibl>Eſay 40.67.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of flowers of the field (illustrating the biblical passage</figDesc>
+                  </figure>
+               </head>
+               <head>Deaths ſixt ſpeech to Nature.</head>
+               <l>WHat is mans life, when every thing may be,</l>
+               <l>An embleme to him of Mortality</l>
+               <l>He is but like the graſſe or the field flower,</l>
+               <l>That flouriſheth and fadeth in an houre.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>The wicked man indeed is like to graſſe,</l>
+                  <l>His life doth wither away and ſoone paſſe.</l>
+                  <l>But thoſe that vertuouſly ſpend here their howers,</l>
+                  <l>Their names ſmell ſweet on earth, like wither'd flowers.</l>
+               </div>
+            </div>
+            <div n="7" type="speech">
+               <pb facs="tcp:170916:15"/>
+               <epigraph>
+                  <q>My dayes are ſwifter then a Poſt, they fly away and I ſee no good. <bibl>Iob 9.25.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of a post on horseback (illustrating the biblical passage)</figDesc>
+                  </figure>
+               </head>
+               <head>Death ſeventh ſpeech to Nature.</head>
+               <l>MAns life is but breaths bubble at the moſt</l>
+               <l>And all his dayes are ſwifter than a Poſt</l>
+               <l>They fly away before they are underſtood,</l>
+               <l>And man in all his life doth ſee no good.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>He that doth in few yeares to heaven climbe,</l>
+                  <l>Ends a long journey in a little time.</l>
+               </div>
+            </div>
+            <div n="8" type="speech">
+               <pb facs="tcp:170916:16"/>
+               <epigraph>
+                  <q>Behold thou haſt made my dayes as an hand breadth, and mine age is nothing unto thee, <bibl>Pſal. 39.5.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of a hand (illustrating the biblical passage)</figDesc>
+                  </figure>
+               </head>
+               <head>Deaths eight ſpeech to Nature.</head>
+               <l>BEhold thy dayes are like unto a ſpan,</l>
+               <l>Which ſtretched out, do yield the greater pain</l>
+               <l>The hand doth ake extended at full length,</l>
+               <l>So age ſtretcht out yields pain and want of ſtrength.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>If I be ould in grace, as well as yeares,</l>
+                  <l>Then ages winter youthfull ſpring appeares.</l>
+               </div>
+            </div>
+            <div n="9" type="speech">
+               <pb facs="tcp:170916:16"/>
+               <epigraph>
+                  <q>For here we have no continuing City, but we ſeeke one to come, <bibl>Heb. 13.14.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of two sojourners passing a city (illustrating the biblical passage)</figDesc>
+                  </figure>
+               </head>
+               <head>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aths ninth ſpeech to Nature.</head>
+               <l>THough here with lands, wives, houſes ye doe fit ye,</l>
+               <l>Yet ye below have no continuing City:</l>
+               <l>But in your earthly pilgrimage go on,</l>
+               <l>In ſeeking out a City that's to come.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>Our new Jeruſalem in heaven ſtands,</l>
+                  <l>Which is a City that's not built with hands.</l>
+               </div>
+            </div>
+            <div n="10" type="speech">
+               <pb facs="tcp:170916:17"/>
+               <epigraph>
+                  <q>What is our Life? it is even as a vapour, that appea<g ref="char:EOLhyphen"/>reth for a little time, and then vaniſheth away. <bibl>James 4.14.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of a cup with liquid evaporating from it (illustrating the biblical passage)</figDesc>
+                  </figure>
+               </head>
+               <head>Deaths tenth ſpeech to Nature.</head>
+               <l>WHat is mans life? it is a burning Taper,</l>
+               <l>Or it is like unto a riſing vapour:</l>
+               <l>Both for a little time appeare and ſtay,</l>
+               <l>But afterward they vaniſh both away.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>That life which ſeemes a vapour, proves Divine,</l>
+                  <l>And like a bright ſtarre ſhall in Heaven ſhine.</l>
+               </div>
+            </div>
+            <div n="11" type="speech">
+               <pb facs="tcp:170916:17"/>
+               <epigraph>
+                  <q>We are paſſed away as a ſwift ſhip under ſaile, that haſteth to the prey. <bibl>Job 9.2.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of a ship (illustrating the biblical passage)</figDesc>
+                  </figure>
+               </head>
+               <head>Deaths eleventh ſpeech to Nature.</head>
+               <l>AS a ſwift ſhip doth on the Ocean glide</l>
+               <l>And cut the foaming Ocean uneſpy'de,</l>
+               <l>Such is mans life that quickly flyes away,</l>
+               <l>Like to an Eagle haſting to his pray.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>Mans life is like a ſhip bound for heaven lyes,</l>
+                  <l>Or like an Eagle unto heaven flyes.</l>
+               </div>
+            </div>
+            <div n="12" type="speech">
+               <pb facs="tcp:170916:18"/>
+               <epigraph>
+                  <q>For he remembred they were but fleſh, and wind tha<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> paſſeth away, and commeth not againe, <bibl>Pſal. 78 39.</bibl>
+                  </q>
+               </epigraph>
+               <head>
+                  <figure>
+                     <figDesc>depiction of the wind (illustrating the biblical passage</figDesc>
+                  </figure>
+               </head>
+               <head>Deaths twelfth ſpeech to Nature.</head>
+               <l>LAſtly, remember man is fleſh and winde,</l>
+               <l>Fleſh to the earth for worms meate is reſign'd</l>
+               <l>The wind doth paſſe away, mans life's the ſame,</l>
+               <l>That paſſes like winde, and comes not againe.</l>
+               <div type="reply">
+                  <head>Natures reply.</head>
+                  <l>Although my fleſh muſt die, I am not ſory:</l>
+                  <l>For after death I ſhall enjoy heavens glory.</l>
+               </div>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:170916:18"/>
+            <head>Life and Death.</head>
+            <lg>
+               <l>LIke to the Damaske Roſe you ſee,</l>
+               <l>Or like the bloſſome of the tree:</l>
+               <l>Or like the dainty flowers in May,</l>
+               <l>Or like the morning of the day,</l>
+               <l>Or like the Sun or like the ſhade,</l>
+               <l>Or like the Gourd that Jonas had:</l>
+               <l>Even ſuch is man whoſe thred is ſpun,</l>
+               <l>Drawn out and cut, and ſo is done.</l>
+               <l>The Roſe withers, the bloſſome blaſteth,</l>
+               <l>The flowers fade, the morning haſteth</l>
+               <l>The Sun ſets, the ſhadow flyes,</l>
+               <l>The Gourd conſumes, and man he dyes.</l>
+            </lg>
+            <lg>
+               <l>Like to the graſſe that's newly ſprung,</l>
+               <l>Or like the tale that's new begune,</l>
+               <l>Or like a bird that's here to day,</l>
+               <l>Or like the pearly Dew in may:</l>
+               <l>Or like a thought, or like a dreame,</l>
+               <l>Or like the gliding of a ſtreame.</l>
+               <l>Even ſuch is man who lives by breath,</l>
+               <l>Each moment ſubject unto death.</l>
+               <l>The graſſe withers, the Tale is ended,</l>
+               <l>The birds flowne, the dew's aſcended,</l>
+               <l>The thought's paſt, the dreame is gone,</l>
+               <l>T<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> waters gilde, Mans life is done.</l>
+               <pb facs="tcp:170916:19"/>
+               <l>Like to a Bubble in a Brooke,</l>
+               <l>Or in a glaſſe much like a looke.</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>depiction of a weaver's shuttle, an hourglass, and a mirror</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>Or like a Shuttle from a Weavers hand,</l>
+               <l>Or like a Writing in the ſand;</l>
+               <l>Or like an hure, or like a ſpan,</l>
+               <l>Or the ſinging of a Swan.</l>
+               <l>Even ſuch is man Whoſe life is gone,</l>
+               <l>Whilſt nimbleſt tongue is telling one.</l>
+               <l>The Bubble's out, the look's forgot,</l>
+               <l>The Shttle's flung, the writings out:</l>
+               <l>The houre's not long, the ſpan's but ſhort,</l>
+               <l>The Swan's neare death; man's in like ſort.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
